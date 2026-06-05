@@ -1,0 +1,5 @@
+curl http://localhost:3000/api/search?category=books
+
+[
+  { "_id": "2", "title": "Books", "category": "books" }
+]

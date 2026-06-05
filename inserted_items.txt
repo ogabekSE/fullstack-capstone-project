@@ -1,0 +1,6 @@
+MongoDB import output:
+
+Connected to MongoDB instance.
+Imported 16 documents into collection 'gifts'.
+
+{ "acknowledged": true, "insertedCount": 16 }

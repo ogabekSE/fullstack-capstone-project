@@ -1,0 +1,10 @@
+GitHub Actions workflow run output (example):
+
+Run tests
+✅ Install dependencies
+✅ Run lint
+✅ Run unit tests
+✅ Build Docker image
+✅ Push image to registry
+
+All steps succeeded.

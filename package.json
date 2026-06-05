@@ -1,0 +1,13 @@
+{
+  "name": "fullstack-capstone-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.10.0",
+    "natural": "^2.4.3"
+  }
+}
